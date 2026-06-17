@@ -1,4 +1,4 @@
-# NYC Airbnb Popularity Prediction 🏠
+# NYC Airbnb Popularity Prediction 
  
 Predicting **`reviews_per_month`** (a proxy for listing popularity) for New York City Airbnb
 listings using a full supervised-learning regression pipeline — from EDA and feature
@@ -87,7 +87,7 @@ discussed in the notebook.
   mattered more than model complexity.
 - Feature selection barely changed performance while improving interpretability.
 
-## 🚀 How to Run
+##  How to Run
  
 ```bash
 # 1. Install dependencies
